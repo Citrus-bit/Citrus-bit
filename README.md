@@ -65,33 +65,36 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Citrus-bit&layout=compact&title_color=FF6B35&text_color=333333&bg_color=FFFFFF&border_color=FF6B35&hide_border=false&langs_count=8" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Citrus-bit&background=FFFFFF&border=FF6B35&ring=FF6B35&fire=FFD166&currStreakLabel=FF6B35&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🚀 Featured Projects / 精选项目
 
-<p align="center">
-  <a href="https://github.com/Citrus-bit/medrix-flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=medrix-flow&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Citrus-bit/deer-flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=deer-flow&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Citrus-bit/XiaoZhi-Medical">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=XiaoZhi-Medical&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Citrus-bit/feishu-coze-dailynews">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=feishu-coze-dailynews&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Citrus-bit/medrix-flow">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=medrix-flow&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Citrus-bit/deer-flow">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=deer-flow&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/Citrus-bit/XiaoZhi-Medical">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=XiaoZhi-Medical&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Citrus-bit/feishu-coze-dailynews">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=feishu-coze-dailynews&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
