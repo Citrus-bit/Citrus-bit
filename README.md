@@ -67,37 +67,6 @@
 
 ---
 
-## 🚀 Featured Projects / 精选项目
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Citrus-bit/medrix-flow">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=medrix-flow&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=ffffff&border_color=FF6B35&show_owner=true&cache_seconds=0" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Citrus-bit/deer-flow">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=deer-flow&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=ffffff&border_color=FF6B35&show_owner=true&cache_seconds=0" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/Citrus-bit/XiaoZhi-Medical">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=XiaoZhi-Medical&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=ffffff&border_color=FF6B35&show_owner=true&cache_seconds=0" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/Citrus-bit/feishu-coze-dailynews">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=feishu-coze-dailynews&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=ffffff&border_color=FF6B35&show_owner=true&cache_seconds=0" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling" width="100%" />
 </p>
