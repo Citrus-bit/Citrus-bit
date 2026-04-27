@@ -66,15 +66,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Citrus-bit&background=FFFFFF&border=FF6B35&ring=FF6B35&fire=FFD166&currStreakLabel=FF6B35&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666&stroke=FF6B35" />
-</p>
-
----
-
-## 🏆 Trophies / 奖杯墙
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Citrus-bit&theme=flat&no-frame=false&column=7&margin-w=10&no-bg=false" />
+  <img src="https://streak-stats.demolab.com?user=Citrus-bit&background=FFFFFF&border=FF6B35&ring=FF6B35&fire=FFD166&currStreakLabel=FF6B35&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666" alt="GitHub Streak" />
 </p>
 
 ---
@@ -99,14 +91,6 @@
   <a href="https://github.com/Citrus-bit/feishu-coze-dailynews">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=feishu-coze-dailynews&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
   </a>
-</p>
-
----
-
-## 📈 Contribution Graph / 贡献图
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Citrus-bit&bg_color=FFFFFF&color=FF6B35&line=FFD166&point=FF6B35&area_color=FFD166&area=true&hide_border=false&custom_title=Contribution%20Activity" />
 </p>
 
 ---
