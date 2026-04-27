@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Hey%20there!%20I'm%20Citrus-bit%20%F0%9F%8D%8A&fontSize=36&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Algorithm%20Engineer%20%7C%20AI%20Builder%20%7C%20Open%20Source%20Lover&descSize=16&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=Hey%20there!%20I'm%20Citrus-bit&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=30&desc=%F0%9F%8D%8A%20Algorithm%20Engineer%20%7C%20AI%20Builder%20%7C%20Open%20Source%20Lover&descSize=18&descAlignY=55" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88+%40+MedrixAI;%F0%9F%8F%AB+The+University+of+Hong+Kong;%F0%9F%94%A5+Building+AI+Agents+%26+Medical+AI;%F0%9F%8D%8A+Code+with+a+zest+for+life!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B35&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%E7%AE%97%E6%B3%95%E5%B7%A5%E7%A8%8B%E5%B8%88+%40+MedrixAI;The+University+of+Hong+Kong;Building+AI+Agents+%26+Medical+AI;Code+with+a+zest+for+life!" alt="Typing SVG" />
   </a>
 </p>
 
@@ -60,19 +60,21 @@
 ## 📊 GitHub Stats / 数据统计
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Citrus-bit&show_icons=true&theme=react&title_color=FF6B35&icon_color=FFD166&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B35&hide_border=false&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Citrus-bit&show_icons=true&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35&hide_border=false&count_private=true" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Citrus-bit&layout=compact&theme=react&title_color=FF6B35&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B35&hide_border=false&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Citrus-bit&layout=compact&title_color=FF6B35&text_color=333333&bg_color=FFFFFF&border_color=FF6B35&hide_border=false&langs_count=8" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Citrus-bit&theme=dark&border=FF6B35&ring=FF6B35&fire=FFD166&currStreakLabel=FF6B35&sideLabels=FFFFFF&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=Citrus-bit&background=FFFFFF&border=FF6B35&ring=FF6B35&fire=FFD166&currStreakLabel=FF6B35&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=666666" />
 </p>
 
 ---
 
+## 🏆 Trophies / 奖杯墙
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Citrus-bit&theme=darkhub&no-frame=true&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Citrus-bit&theme=flat&no-frame=true&column=7&margin-w=10&no-bg=true" />
 </p>
 
 ---
@@ -81,21 +83,21 @@
 
 <p align="center">
   <a href="https://github.com/Citrus-bit/medrix-flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=medrix-flow&theme=react&title_color=FF6B35&icon_color=FFD166&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B35" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=medrix-flow&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
   </a>
   &nbsp;
   <a href="https://github.com/Citrus-bit/deer-flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=deer-flow&theme=react&title_color=FF6B35&icon_color=FFD166&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B35" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=deer-flow&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Citrus-bit/XiaoZhi-Medical">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=XiaoZhi-Medical&theme=react&title_color=FF6B35&icon_color=FFD166&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B35" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=XiaoZhi-Medical&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
   </a>
   &nbsp;
   <a href="https://github.com/Citrus-bit/feishu-coze-dailynews">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=feishu-coze-dailynews&theme=react&title_color=FF6B35&icon_color=FFD166&text_color=FFFFFF&bg_color=0D1117&border_color=FF6B35" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Citrus-bit&repo=feishu-coze-dailynews&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35" />
   </a>
 </p>
 
@@ -104,7 +106,7 @@
 ## 📈 Contribution Graph / 贡献图
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Citrus-bit&theme=react-dark&color=FF6B35&line=FFD166&point=FFFFFF&area_color=FF6B35&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Citrus-bit&bg_color=FFFFFF&color=FF6B35&line=FFD166&point=FF6B35&area_color=FFD166&area=true&hide_border=false&custom_title=Contribution%20Activity" />
 </p>
 
 ---
