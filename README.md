@@ -26,7 +26,7 @@
 - 🌱 Deep diving into **LangGraph, Multi-Agent Systems & Medical AI**
 - 🏫 Based at **The University of Hong Kong**
 - 🏢 Working at **MedrixAI** as an Algorithm Engineer
-- 💬 Ask me about **AI Agents, LLM Applications, Spring Boot Microservices**
+- 💬 Ask me about **AI Agents, LLM Applications, Web Development**
 - ⚡ Fun fact: My GitHub name is Citrus-bit because I believe code should be fresh and zesty 🍊
 
 ---
