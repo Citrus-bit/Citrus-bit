@@ -20,7 +20,7 @@
 
 ## 🍊 About Me / 关于我
 
-> 一个热爱 AI 的算法工程师，白天调模型，晚上写开源，偶尔还能挤出时间喝杯柠檬茶 🍋
+> 一个热爱 AI 的算法工程师，白天调模型，晚上写开源。
 
 - 🔭 Currently building **[medrix-flow](https://github.com/Citrus-bit/medrix-flow)** — an AI Agent orchestration platform
 - 🌱 Deep diving into **LangGraph, Multi-Agent Systems & Medical AI**
