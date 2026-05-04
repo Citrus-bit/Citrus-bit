@@ -55,18 +55,3 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 GitHub Stats / 数据统计
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Citrus-bit&show_icons=true&title_color=FF6B35&icon_color=FFD166&text_color=333333&bg_color=FFFFFF&border_color=FF6B35&hide_border=false&count_private=true" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Citrus-bit&layout=compact&title_color=FF6B35&text_color=333333&bg_color=FFFFFF&border_color=FF6B35&hide_border=false&langs_count=8" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling" width="100%" />
-</p>
